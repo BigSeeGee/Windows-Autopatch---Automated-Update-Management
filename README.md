@@ -54,9 +54,9 @@ Created an Autopatch group named `Win11-Autopatch` and configured it as follows.
 
 With the feature update target set to 26H2, any device on an older version upgrades as soon as it checks in. Devices already on the target version stay where they are.
 
-<img width="800" height="450" alt="image" src="docs/img/02-device-registration.png" />
+<img width="1387" height="869" alt="Snímka obrazovky 2026-10-02 180730" src="https://github.com/user-attachments/assets/f8912524-979f-4fd8-a432-2ffc2b34ed67" />
 
-*Ref 2: Device registration*
+*Ref 2: Autopatch group settings*
 
 #### 3. Deployment Rings
 
