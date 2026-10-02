@@ -76,7 +76,7 @@ The finished `Win11-Autopatch` group:
 
 Confirmed Autopatch automatically created and scoped the Windows quality update, feature update and driver update policies for each ring, so no manually created update policies were needed going forward.
 
-<img width="800" height="450" alt="Update policies created by Autopatch" src="docs/img/04-update-policies.png" />
+<img width="1372" height="272" alt="image" src="https://github.com/user-attachments/assets/5fbe941f-2423-4f0d-85c2-09cd469d262d" />
 
 *Ref 4: Update policies*
 
