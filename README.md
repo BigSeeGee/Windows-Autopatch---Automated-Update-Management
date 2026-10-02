@@ -28,7 +28,7 @@ The client broker is the agent that lets Autopatch-registered devices send updat
 
 <img width="961" height="289" alt="image" src="https://github.com/user-attachments/assets/ace7decf-be1c-4706-a73c-e63be54b0e27" />
 
-*Ref 1: Readiness check*
+*Ref 1: Installing the client broker*
 
 #### 2. Create the Autopatch Group
 
